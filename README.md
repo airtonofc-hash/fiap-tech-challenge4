@@ -8,7 +8,8 @@ Desenvolver modelos de classificação para predizer obesidade com base em carac
 
 ## 🔗 Links
 - **Aplicação Streamlit**: https://fiap-tech-challenge4-kybsnv8jz5ng8nsizhkpae.streamlit.app/
-- **Repositório**: https://github.com/trcosta97/fiap-tech-challenge4
+- **Painel Analítico**: https://fiap-tech-challenge4-kybsnv8jz5ng8nsizhkpae.streamlit.app/
+- **Repositório**: https://github.com/airtonofc-hash/fiap-tech-challenge4
 
 ## 📁 Estrutura do Projeto
 ```

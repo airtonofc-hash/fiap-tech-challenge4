@@ -1,6 +1,6 @@
 Link da aplicação Streamlit: https://fiap-tech-challenge4-kybsnv8jz5ng8nsizhkpae.streamlit.app/
 Link do painel analítico: https://fiap-tech-challenge4-kybsnv8jz5ng8nsizhkpae.streamlit.app/
-Link do repositório de código: https://github.com/trcosta97/fiap-tech-challenge4
+Link do repositório de código: https://github.com/airtonofc-hash/fiap-tech-challenge4
 ------------------------------------------------------------------------------------
 import os
 import io
